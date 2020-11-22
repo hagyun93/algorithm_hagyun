@@ -12,9 +12,9 @@ setup(
     # 배포하는 사람의 메일주소를 작성한다.
     author_email    = 'imkimhagyun@naver.com',
     # 배포하는 패키지의 url을 적는다. 보통 github 링크를 적는다.
-    url             = '',
+    url             = 'https://github.com/hagyun93/algorithm_hagyun',
     # 배포하는 패키지의 다운로드 url을 적는다.
-    download_url    = '',
+    download_url    = 'https://github.com/hagyun93/algorithm_hagyun/archive/master.zip',
     # 해당 패키지를 사용하기 위해 필요한 패키지를 적는다. ex) install_requires=['numpy', 'django']
     # 여기에 적어준 패키지는 현재 패키지를 install 할 때 함께 install 된다.
     install_requires    =   [],
